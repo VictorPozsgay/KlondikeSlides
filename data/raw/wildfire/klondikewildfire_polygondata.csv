@@ -1,0 +1,203 @@
+OBJECTID *,SHAPE *,Fire ID,Fire Year,Decade,Fire Number,Fire District,Area (ha) of full polygon,Perimeter Source,Drafting Method,Comments,SHAPE_Length,SHAPE_Area (within inventory region only)
+40,Polygon Z,195200009,1952,1950,9,YT,366.19113,Sketch Map Not Specified,Digitize: Tablet Analogue Source, ,17006.81187,3661911.263
+48,Polygon Z,195300055,1953,1950,55,YT,36.4069,Sketch Map from Report,Digitize: Heads-up, ,3223.548499,364068.9702
+51,Polygon Z,195300046,1953,1950,46,YT,20416.55412,Sketch Map Not Specified,Digitize: Tablet Analogue Source, ,12215.57191,8880253.016
+193,Polygon Z,195400060,1954,1950,60,YT,426.75867,Sketch Map Not Specified,Digitize: Tablet Analogue Source, ,12386.45761,4267586.745
+3,Polygon Z,195700039,1957,1950,39,YT,10095.41912,Sketch Map Not Specified,Digitize: Tablet Analogue Source, ,42513.67297,100954191.2
+25,Polygon Z,195700034,1957,1950,34,YT,4994.26029,Sketch Map Not Specified,Digitize: Tablet Analogue Source, ,30146.28227,49942602.93
+63,Polygon Z,195700038,1957,1950,38,YT,1549.08552,Sketch Map Not Specified,Digitize: Tablet Analogue Source, ,17428.37873,15490855.25
+69,Polygon Z,195700021,1957,1950,21,YT,1192.56294,Sketch Map Not Specified,Digitize: Tablet Analogue Source, ,17688.49203,11925629.4
+71,Polygon Z,195700023,1957,1950,23,YT,1064.61367,Sketch Map Not Specified,Digitize: Tablet Analogue Source, ,16761.22432,10646136.74
+74,Polygon Z,195700024,1957,1950,24,YT,232.46209,Sketch Map Not Specified,Digitize: Tablet Analogue Source, ,6322.783705,2324620.892
+126,Polygon Z,195700060,1957,1950,60,YT,206.36455,Sketch Map Not Specified,Digitize: Tablet Analogue Source, ,5599.103742,2063645.487
+162,Polygon Z,195700020,1957,1950,20,YT,686.94415,Sketch Map Not Specified,Digitize: Tablet Analogue Source, ,11696.90866,6869441.456
+169,Polygon Z,195700050,1957,1950,50,YT,6125.85399,Sketch Map Not Specified,Digitize: Tablet Analogue Source, ,39679.47578,61258539.89
+197,Polygon Z,195700051,1957,1950,51,YT,444.33218,Sketch Map Not Specified,Digitize: Tablet Analogue Source, ,8021.083832,4443321.847
+47,Polygon Z,195800027,1958,1950,27,YT,370.78816,Sketch Map Not Specified,Digitize: Tablet Analogue Source, ,7986.561561,3707881.646
+133,Polygon Z,195800031,1958,1950,31,YT,871.60254,Sketch Map Not Specified,Digitize: Tablet Analogue Source, ,13920.59773,8716025.426
+9,Polygon Z,195900029,1959,1950,29,YT,269.83372,Sketch Map Not Specified,Digitize: Tablet Analogue Source, ,8568.151581,2698337.194
+1,Polygon Z,196608009,1966,1960,9,Dawson,128636.945,Sketch Map Not Specified,Digitize: Tablet Analogue Source, ,10119.42939,5164795.571
+42,Polygon Z,196608013,1966,1960,13,Dawson,41930.86885,Sketch Map Not Specified,Digitize: Tablet Analogue Source, ,109132.6665,243026820.4
+127,Polygon Z,196608012,1966,1960,12,Dawson,459.3778,Sketch Map Not Specified,Digitize: Tablet Analogue Source, ,9747.004472,4593777.96
+66,Polygon Z,196708008,1967,1960,8,Dawson,8253.40422,30m LandSAT 7 Satellite Imagery,Digitize: Heads-up, ,39898.01713,82534042.17
+87,Polygon Z,196708004,1967,1960,4,Dawson,7126.96845,30m LandSAT 7 Satellite Imagery,Digitize: Heads-up, ,77835.94742,64482932.75
+117,Polygon Z,196708001,1967,1960,1,Dawson,2805.33155,Sketch Map Not Specified,Digitize: Tablet Analogue Source, ,33191.22782,28053315.44
+124,Polygon Z,196708002,1967,1960,2,Dawson,24483.17222,Sketch Map Not Specified,Digitize: Tablet Analogue Source, ,87355.40239,214302015.3
+183,Polygon Z,196708005,1967,1960,5,Dawson,752.65062,Sketch Map Not Specified,Digitize: Tablet Analogue Source, ,15845.40185,7526506.166
+44,Polygon Z,196808007,1968,1960,7,Dawson,117.53884,Sketch Map Not Specified,Digitize: Tablet Analogue Source, ,5987.261251,1175388.411
+81,Polygon Z,196808002,1968,1960,2,Dawson,636.71003,Sketch Map Not Specified,Digitize: Tablet Analogue Source, ,13245.83739,6367100.347
+60,Polygon Z,196908008,1969,1960,8,Dawson,15093.33622,Sketch Map Not Specified,Digitize: Tablet Analogue Source, ,50933.7582,72059762.5
+192,Polygon Z,196908013,1969,1960,13,Dawson,1107.9392,Sketch Map Not Specified,Digitize: Tablet Analogue Source, ,14527.86955,11079391.97
+134,Polygon Z,197108008,1971,1970,8,Dawson,1112.15498,30m LandSAT 7 Satellite Imagery,Digitize: Heads-up, ,21190.76667,11121549.77
+28,Polygon Z,197208005,1972,1970,5,Dawson,353.53783,Sketch Map Not Specified,Digitize: Tablet Analogue Source, ,9338.944312,3535378.331
+79,Polygon Z,197208011,1972,1970,11,Dawson,0,Landsat MSS,Multi-Acquisition Fire Mapping System (MAFiMS),Updated 2025 from NBAC,66604.10894,51901872.05
+80,Polygon Z,197208007,1972,1970,7,Dawson,333.87402,Sketch Map Not Specified,Digitize: Tablet Analogue Source, ,11445.97414,3338740.166
+107,Polygon Z,197208012,1972,1970,12,Dawson,0,Landsat MSS,Multi-Acquisition Fire Mapping System (MAFiMS),Updated 2025 from NBAC,16625.1204,7554794.239
+20,Polygon Z,197708012,1977,1970,12,Dawson,840.40405,30m LandSAT 7 Satellite Imagery,Digitize: Heads-up, ,16472.70722,8404040.482
+64,Polygon Z,197708016,1977,1970,16,Dawson,0,Landsat MSS,Multi-Acquisition Fire Mapping System (MAFiMS),Updated 2025 from NBAC,16667.50609,3740919.817
+123,Polygon Z,197808011,1978,1970,11,Dawson,131.14005,30m LandSAT 7 Satellite Imagery,Digitize: Heads-up, ,6565.938373,1311400.475
+26,Polygon Z,198208006,1982,1980,6,Dawson,1538.418,30m LandSAT 7 Satellite Imagery,Digitize: Heads-up, ,38320.0792,15384179.98
+53,Polygon Z,198308013,1983,1980,13,Dawson,189.40169,30m LandSAT 7 Satellite Imagery,Digitize: Heads-up, ,11142.08718,1894016.893
+93,Polygon Z,198308022,1983,1980,22,Dawson,599.32839,Sketch Map Not Specified,Digitize: Tablet Analogue Source, ,11435.11921,5993283.942
+122,Polygon Z,198308029,1983,1980,29,Dawson,414.6041,30m LandSAT 7 Satellite Imagery,Digitize: Heads-up, ,12012.8242,4146041.025
+141,Polygon Z,198308012,1983,1980,12,Dawson,1058.29594,30m LandSAT 7 Satellite Imagery,Digitize: Heads-up, ,4614.686238,1267571.563
+15,Polygon Z,198608014,1986,1980,14,Dawson,4273.26699,30m LandSAT 7 Satellite Imagery,Digitize: Heads-up, ,28375.01802,16705188.2
+24,Polygon Z,198608015,1986,1980,15,Dawson,236.51778,30m LandSAT 7 Satellite Imagery,Digitize: Heads-up, ,347.309908,2453.156494
+56,Polygon Z,198608021,1986,1980,21,Dawson,2.173926,LandSAT,C2C,location updated using NBAC or require an ignition point,871.074145,21739.26246
+84,Polygon Z,198608019,1986,1980,19,Dawson,0,LandSAT,"Multi-Acquisition Fire Mapping System (MAFiMS)",Updated 2025 from NBAC,299279.2948,68131198.92
+102,Polygon Z,198608040,1986,1980,40,Dawson,543.86414,30m LandSAT 7 Satellite Imagery,Digitize: Heads-up, ,24013.19169,3587224.643
+103,Polygon Z,198608027,1986,1980,27,Dawson,1534.82299,Sketch Map Not Specified,Digitize: Tablet Analogue Source, ,13584.38548,8638403.863
+112,Polygon Z,198608034,1986,1980,34,Dawson,4640.11328,30m LandSAT 7 Satellite Imagery,Digitize: Heads-up, ,56624.76013,46401132.82
+152,Polygon Z,198608038,1986,1980,38,Dawson,385.051908,LandSAT,C2C,location updated using NBAC or require an ignition point,29100.45207,3850519.073
+13,Polygon Z,198908021,1989,1980,21,Dawson,0,LandSAT,C2C,Updated 2025 from NBAC,202945.6625,51089537.73
+34,Polygon Z,198908020,1989,1980,20,Dawson,0,LandSAT,C2C,Updated 2025 from NBAC,225235.6152,51621814.44
+137,Polygon Z,198908023,1989,1980,23,Dawson,0,LandSAT,C2C,Updated 2025 from NBAC,167069.1578,31222172.51
+164,Polygon Z,198908017,1989,1980,17,Dawson,0,LandSAT,C2C,Updated 2025 from NBAC,208795.1957,27766961.58
+148,Polygon Z,199008017,1990,1990,17,Dawson,428.94386,30m LandSAT 7 Satellite Imagery,Digitize: Heads-up, ,19292.23329,4289438.647
+161,Polygon Z,999008007,1990,1990,7,Dawson,0,LandSAT,C2C,Updated 2025 from NBAC,3986.365146,277904.9894
+27,Polygon Z,199108020,1991,1990,20,Dawson,153.205218,LandSAT,C2C,location updated using NBAC or require an ignition point,18577.98076,1504428.148
+38,Polygon Z,199108002,1991,1990,2,Dawson,2831.32616,30m LandSAT 7 Satellite Imagery,Digitize: Heads-up, ,51950.17936,24828946.42
+61,Polygon Z,199108028,1991,1990,28,Dawson,0,LandSAT,C2C,Updated 2025 from NBAC,115851.4791,20276677.63
+82,Polygon Z,199108015,1991,1990,15,Dawson,15131.57597,30m LandSAT 7 Satellite Imagery,Digitize: Heads-up, ,127431.2458,151315759.7
+85,Polygon Z,199108027,1991,1990,27,Dawson,0,LandSAT,C2C,Updated 2025 from NBAC,47226.48111,6017427.472
+91,Polygon Z,199108011,1991,1990,11,Dawson,0,LandSAT,C2C,Updated 2025 from NBAC,69758.42213,17910570.23
+101,Polygon Z,199108021,1991,1990,21,Dawson,0,LandSAT,C2C,Updated 2025 from NBAC,77061.92607,16678117.17
+104,Polygon Z,199108033,1991,1990,33,Dawson,1619.45959,30m LandSAT 7 Satellite Imagery,Digitize: Heads-up, ,23531.15921,16194595.93
+120,Polygon Z,199108019,1991,1990,19,Dawson,0,LandSAT,C2C,Updated 2025 from NBAC,41888.08565,5548449.473
+142,Polygon Z,199108018,1991,1990,18,Dawson,60.146099,30m LandSAT 7 Satellite Imagery,Digitize: Heads-up,location updated using NBAC or require an ignition point,5874.988286,601460.9886
+173,Polygon Z,199108014,1991,1990,14,Dawson,20.748503,LandSAT,C2C,location updated using NBAC or require an ignition point,2819.229452,207485.0298
+105,Polygon Z,199408010,1994,1990,10,Dawson,0,LandSAT,Multi-Acquisition Fire Mapping System (MAFiMS),Updated 2025 from NBAC,60404.39607,13992145.4
+111,Polygon Z,999008003,1994,1990,3,Dawson,0,LandSAT,C2C,Updated 2025 from NBAC,1039.854943,52213.03819
+151,Polygon Z,199408010,1994,1990,10,Dawson,1456.10387,30m LandSAT 7 Satellite Imagery,Digitize: Heads-up, ,33114.94936,14561038.68
+175,Polygon Z,199408037,1994,1990,37,Dawson,0,LandSAT,C2C,Updated 2025 from NBAC,111146.2672,27770626.86
+202,Polygon Z,199408046,1994,1990,46,Dawson,0,LandSAT,C2C,Updated 2025 from NBAC,476.339917,8665.79706
+31,Polygon Z,199508002,1995,1990,2,Dawson,0,LandSAT,C2C,Updated 2025 from NBAC,39640.814,10446296.89
+72,Polygon Z,199508005,1995,1990,5,Dawson,0,LandSAT,C2C,Updated 2025 from NBAC,782.436379,43605.94662
+147,Polygon Z,199508006,1995,1990,6,Dawson,788.81284,30m LandSAT 7 Satellite Imagery,Digitize: Heads-up, ,23775.58309,7888128.375
+59,Polygon Z,199608008,1996,1990,8,Dawson,0,LandSAT,C2C,Updated 2025 from NBAC,1617.378383,55122.53234
+92,Polygon Z,199608042,1996,1990,42,Dawson,62.348594,LandSAT,C2C,location updated using NBAC or require an ignition point,14542.16768,623485.9423
+166,Polygon Z,199708001,1997,1990,1,Dawson,57.066086,LandSAT,C2C,location updated using NBAC or require an ignition point,5689.843804,570660.8473
+195,Polygon Z,199808008,1998,1990,8,Dawson,0,LandSAT,C2C,Updated 2025 from NBAC,24982.7241,6218830.621
+12,Polygon Z,199908025,1999,1990,25,Dawson,7.680716,LandSAT,C2C,location updated using NBAC or require an ignition point,1523.071106,76807.16131
+19,Polygon Z,199908004,1999,1990,4,Dawson,0,LandSAT,C2C,Updated 2025 from NBAC,188553.6743,67192014.54
+29,Polygon Z,199908024,1999,1990,24,Dawson,0,LandSAT,C2C,Updated 2025 from NBAC,8370.343639,1203805.238
+43,Polygon Z,199908011,1999,1990,11,Dawson,16120.21487,30m LandSAT 7 Satellite Imagery,Digitize: Heads-up, ,122228.5663,156060666.9
+55,Polygon Z,199908043,1999,1990,43,Dawson,0,LandSAT,C2C,Updated 2025 from NBAC,58174.44479,4326674.653
+106,Polygon Z,199908006,1999,1990,6,Dawson,0,LandSAT,"Multi-Acquisition Fire Mapping System (MAFiMS)",Updated 2025 from NBAC,1632509.706,240373987.8
+118,Polygon Z,199908016,1999,1990,16,Dawson,8.634753,30m LandSAT 7 Satellite Imagery,Digitize: Heads-up,location updated using NBAC or require an ignition point,1132.33168,86347.53124
+150,Polygon Z,199908048,1999,1990,48,Dawson,123.912022,30m LandSAT 7 Satellite Imagery,Digitize: Heads-up,location updated using NBAC or require an ignition point,8029.304427,1239120.217
+158,Polygon Z,199908003,1999,1990,3,Dawson,31836.60011,30m LandSAT 7 Satellite Imagery,Digitize: Heads-up, ,206937.4169,314171312.3
+172,Polygon Z,199908002,1999,1990,2,Dawson,0,LandSAT,C2C,Updated 2025 from NBAC,11614.41244,1264851.467
+182,Polygon Z,199908030,1999,1990,30,Dawson,38.743489,LandSAT,C2C,location updated using NBAC or require an ignition point,4240.072958,387434.8908
+184,Polygon Z,199908013,1999,1990,13,Dawson,0,LandSAT,C2C,Updated 2025 from NBAC,104930.2864,15030624.72
+191,Polygon Z,199908032,1999,1990,32,Dawson,432.6074,30m LandSAT 7 Satellite Imagery,Digitize: Heads-up, ,12632.81501,4326074.017
+196,Polygon Z,199908007,1999,1990,7,Dawson,1254.77629,30m LandSAT 7 Satellite Imagery,Digitize: Heads-up, ,34430.45049,12547762.85
+94,Polygon Z,200008004,2000,2000,4,Dawson,0,LandSAT,C2C,Updated 2025 from NBAC,1278.336275,64882.06194
+8,Polygon Z,200108005,2001,2000,5,Dawson,14498.83091,30m LandSAT 7 Satellite Imagery,Digitize: Heads-up, ,159950.4159,144988309.1
+145,Polygon Z,200208007,2002,2000,7,Dawson,206.61683,30m LandSAT 7 Satellite Imagery,Digitize: Heads-up,location updated using NBAC or require an ignition point,7285.700073,2066168.298
+57,Polygon Z,200308014,2003,2000,14,Dawson,6917.03243,30m LandSAT 5 Satellite Imagery,Digitize: Heads-up, ,120299.4548,69170324.35
+73,Polygon Z,200308009,2003,2000,9,Dawson,2.85109,LandSAT,Multi-Acquisition Fire Mapping System (MAFiMS),location updated using NBAC or require an ignition point,1025.457826,28510.89801
+10,Polygon Z,2004DA009,2004,2000,9,Dawson,34102.42713,30m LandSAT 5 Satellite Imagery,Digitize: Tablet Digital Source, ,314008.181,341024271.4
+32,Polygon Z,2004DA026,2004,2000,26,Dawson,1716.662411,LandSAT,Multi-Acquisition Fire Mapping System (MAFiMS),location updated using NBAC or require an ignition point,43817.86707,9060205.83
+33,Polygon Z,2004DA014,2004,2000,14,Dawson,0,LandSAT,Multi-Acquisition Fire Mapping System (MAFiMS),Updated 2025 from NBAC,202679.9108,93283946.12
+37,Polygon Z,2004DA013,2004,2000,13,Dawson,6089.6621,30m LandSAT 5 Satellite Imagery,Digitize: Tablet Digital Source, ,135117.8327,60896621.07
+39,Polygon Z,2004DA021,2004,2000,21,Dawson,0,LandSAT,Multi-Acquisition Fire Mapping System (MAFiMS),Updated 2025 from NBAC,116874.7755,34662441.77
+50,Polygon Z,2004DA010,2004,2000,10,Dawson,28737.1757,30m LandSAT 5 Satellite Imagery,Digitize: Tablet Digital Source, ,247751.5664,153513285.5
+54,Polygon Z,2004DA034,2004,2000,34,Dawson,0,LandSAT,"Multi-Acquisition Fire Mapping System (MAFiMS)",Updated 2025 from NBAC,20155.19103,4382780.254
+58,Polygon Z,2004DA040,2004,2000,40,Dawson,15.196547,LandSAT,Multi-Acquisition Fire Mapping System (MAFiMS),location updated using NBAC or require an ignition point,1630.232183,151965.4653
+67,Polygon Z,2004DA033,2004,2000,33,Dawson,1058.78213,30m LandSAT 5 Satellite Imagery,Digitize: Tablet Digital Source, ,24969.01863,9726090.798
+110,Polygon Z,2004DA027,2004,2000,27,Dawson,991.33021,30m LandSAT 5 Satellite Imagery,Digitize: Tablet Digital Source, ,14537.11229,9913302.141
+121,Polygon Z,2004DA030,2004,2000,30,Dawson,17383.23997,30m LandSAT 5 Satellite Imagery,Digitize: Tablet Digital Source, ,139398.866,117546569.1
+135,Polygon Z,2004DA041,2004,2000,41,Dawson,0,LandSAT,Multi-Acquisition Fire Mapping System (MAFiMS),Updated 2025 from NBAC,4958.181183,763114.9696
+138,Polygon Z,2004DA019,2004,2000,19,Dawson,13373.30764,30m LandSAT 5 Satellite Imagery,Digitize: Tablet Digital Source, ,214183.3936,133733076.4
+144,Polygon Z,2004DA037,2004,2000,37,Dawson,16.694316,30m LandSAT 5 Satellite Imagery,Digitize: Tablet Digital Source,location updated using NBAC or require an ignition point,1605.664738,166943.1648
+165,Polygon Z,2004DA012,2004,2000,12,Dawson,23587.84787,30m LandSAT 5 Satellite Imagery,Digitize: Tablet Digital Source, ,283690.8625,235019360.7
+177,Polygon Z,2004DA029,2004,2000,29,Dawson,0,LandSAT,Multi-Acquisition Fire Mapping System (MAFiMS),Updated 2025 from NBAC,418476.5362,245490822.1
+181,Polygon Z,2004DA028,2004,2000,28,Dawson,10155.88936,30m LandSAT 5 Satellite Imagery,Digitize: Tablet Digital Source, ,84929.98422,64620930.66
+185,Polygon Z,2004DA016,2004,2000,16,Dawson,3380.1032,30m LandSAT 5 Satellite Imagery,Digitize: Tablet Digital Source, ,45271.07057,33801031.99
+2,Polygon Z,2005DA019,2005,2000,19,Dawson,58528.55828,30m LandSAT 5 Satellite Imagery,Digitize: Tablet Digital Source, ,129428.6236,57257739.57
+52,Polygon Z,2005DA020,2005,2000,20,Dawson,10.494401,30m LandSAT 5 Satellite Imagery,Digitize: Tablet Digital Source,location updated using NBAC or require an ignition point,1570.536531,104944.006
+140,Polygon Z,2005DA014,2005,2000,14,Dawson,7.09076,LandSAT,C2C,location updated using NBAC or require an ignition point,1124.855849,70907.59528
+149,Polygon Z,2005DA013,2005,2000,13,Dawson,26907.59027,30m LandSAT 5 Satellite Imagery,Digitize: Tablet Digital Source, ,255353.3157,231907190.4
+45,Polygon Z,2006DA012,2006,2000,12,Dawson,0,LandSAT,Multi-Acquisition Fire Mapping System (MAFiMS),Updated 2025 from NBAC,267176.5168,88930068.8
+97,Polygon Z,2006DA011,2006,2000,11,Dawson,26.41975,30m LandSAT 5 Satellite Imagery,Digitize: Tablet Digital Source, ,2819.92822,264197.4544
+187,Polygon Z,2006DA013,2006,2000,13,Dawson,0,LandSAT,Multi-Acquisition Fire Mapping System (MAFiMS),Updated 2025 from NBAC,15180.4287,4597990.408
+7,Polygon Z,2007DA010,2007,2000,10,Dawson,0,LandSAT,C2C,Updated 2025 from NBAC,71276.1158,9481992.382
+68,Polygon Z,2007DA014,2007,2000,14,Dawson,99.72022,30m LandSAT 5 Satellite Imagery,Digitize: Tablet Digital Source, ,6298.399166,997202.1882
+89,Polygon Z,2007DA008,2007,2000,8,Dawson,30.33334,GPS Trace,GPS: Heliborne Trace, ,2305.525331,303333.3889
+129,Polygon Z,2007DA036,2007,2000,36,Dawson,9.13558,30m LandSAT 5 Satellite Imagery,Digitize: Tablet Digital Source, ,1361.273857,91355.77086
+186,Polygon Z,2007DA028,2007,2000,28,Dawson,4.060588,LandSAT,C2C,location updated using NBAC or require an ignition point,931.100482,40605.87439
+125,Polygon Z,2009DA017,2009,2000,17,Dawson,0,LandSAT,Multi-Acquisition Fire Mapping System (MAFiMS),Updated 2025 from NBAC,210544.7266,111490709.9
+146,Polygon Z,2009DA019,2009,2000,19,Dawson,8.41516,30m LandSAT 5 Satellite Imagery,Digitize: Heads-up, ,1424.679297,84151.58178
+154,Polygon Z,2009DA016,2009,2000,16,Dawson,6898.390207,LandSAT,Multi-Acquisition Fire Mapping System (MAFiMS),location updated using NBAC or require an ignition point,186337.4726,68983902.07
+190,Polygon Z,2009DA001,2009,2000,1,Dawson,0,LandSAT,Multi-Acquisition Fire Mapping System (MAFiMS),Updated 2025 from NBAC,341865.1737,129770911.7
+16,Polygon Z,2010DA005,2010,2010,5,Dawson,276.68091,30m LandSAT 5 Satellite Imagery,Digitize: Heads-up, ,14410.44359,2766809.12
+174,Polygon Z,2010DA003,2010,2010,3,Dawson,0,LandSAT,Multi-Acquisition Fire Mapping System (MAFiMS),Updated 2025 from NBAC,77855.53393,13447815.08
+200,Polygon Z,2011DA003,2011,2010,3,Dawson,0,LandSAT,C2C,Updated 2025 from NBAC,141219.6773,25418818.65
+132,Polygon Z,2012DA003,2012,2010,3,Dawson,0,LandSAT,C2C,Updated 2025 from NBAC,51109.29608,7370318.051
+96,Polygon Z,2013DA019,2013,2010,19,Dawson,0.902448,30m LandSAT 7 Satellite Imagery,Digitize: Heads-up,location updated using NBAC or require an ignition point,359.908489,9024.478076
+114,Polygon Z,2013DA028,2013,2010,28,Dawson,16.683717,30m LandSAT 7 Satellite Imagery,Digitize: Heads-up,location updated using NBAC or require an ignition point,2006.699233,166837.1702
+160,Polygon Z,2013DA003,2013,2010,3,Dawson,7.23067,30m LandSAT 7 Satellite Imagery,Digitize: Heads-up, ,1172.747798,72306.74579
+167,Polygon Z,2013DA009,2013,2010,9,Dawson,170.47835,30m LandSAT 7 Satellite Imagery,Digitize: Heads-up, ,8634.023725,1704783.524
+178,Polygon Z,2013DA034,2013,2010,34,Dawson,81.09128,30m LandSAT 7 Satellite Imagery,Digitize: Heads-up, ,6152.753643,810912.8369
+179,Polygon Z,2013DA025,2013,2010,25,Dawson,9324.41563,30m LandSAT 7 Satellite Imagery,Digitize: Heads-up, ,212097.5196,93244156.27
+194,Polygon Z,2013DA029,2013,2010,29,Dawson,0.848403,30m LandSAT 7 Satellite Imagery,Digitize: Heads-up,location updated using NBAC or require an ignition point,381.185554,8484.026854
+77,Polygon Z,2015DA008,2015,2010,8,8,0,LandSAT,Multi-Acquisition Fire Mapping System (MAFiMS),Updated 2025 from NBAC,35980.63715,9112323.812
+157,Polygon Z,2015DA014,2015,2010,14,Dawson,377.656945,LandSAT,Multi-Acquisition Fire Mapping System (MAFiMS),location updated using NBAC or require an ignition point,19131.92556,3776569.468
+171,Polygon Z,2016DA001,2016,2010,1,Dawson,277.60456,GPS Trace,GPS: Heliborne Trace, ,8415.266506,2776045.626
+18,Polygon Z,2017DA001,2017,2010,1,Dawson,0,30m LandSAT 7 Satellite Imagery,Digitize: Heads-up, ,143937.2435,113941037.3
+41,Polygon Z,2017DA006,2017,2010,6,Dawson,1131.4443,GPS Trace,GPS: Ground Trace,Collected 6-29-2017,20261.44724,11314442.99
+139,Polygon Z,2017DA019,2017,2010,19,Dawson,10.54633,GPS Trace,GPS: Heliborne Trace,Collected 7-6-2017,1505.713999,105463.3126
+143,Polygon Z,2017DA018,2017,2010,18,Dawson,0.743654,GPS Trace,GPS: Ground Trace,location updated using NBAC or require an ignition point,358.620736,7436.541778
+4,Polygon Z,2018DA009,2018,2010,9,Dawson,1831.64952,30m LandSAT 8 Satellite Imagery,Digitize: Heads-up, ,30019.40313,18316495.16
+159,Polygon Z,2018DA001,2018,2010,1,Dawson,2591.68936,30m LandSAT 8 Satellite Imagery,Digitize: Heads-up, ,31367.02034,25916893.6
+100,Polygon Z,2019DA010,2019,2010,10,Dawson,0,LandSAT,Multi-Acquisition Fire Mapping System (MAFiMS),Updated 2025 from NBAC,36564.44314,18248109.91
+108,Polygon Z,2019DA013,2019,2010,13,Dawson,812.80821,30m LandSAT 8 Satellite Imagery,Digitize: Heads-up,collected 07-17-2019,15163.19781,8128082.144
+109,Polygon Z,2019DA017,2019,2010,17,Dawson,0,LandSAT,Multi-Acquisition Fire Mapping System (MAFiMS),Updated 2025 from NBAC,105892.8577,67440648.72
+168,Polygon Z,2019DA020,2019,2010,20,Dawson,14431.69846,30m LandSAT 8 Satellite Imagery,Digitize: Heads-up,collected 7-11-19,68111.35322,144316984.6
+17,Polygon Z,2021DA014,2021,2020,14,Dawson,177.611176,LandSAT,Multi-Acquisition Fire Mapping System (MAFiMS),location updated using NBAC or require an ignition point,7458.166623,1776111.757
+22,Polygon Z,2021DA024,2021,2020,24,Dawson,0,LandSAT,Multi-Acquisition Fire Mapping System (MAFiMS),Updated 2025 from NBAC,108368.5545,64255368.52
+6,Polygon Z,2022DA036,2022,2020,36,Dawson,35.760461,30m LandSAT 8 Satellite Imagery,Digitize: Heads-up,location updated using NBAC or require an ignition point,2590.666706,357604.6088
+14,Polygon Z,2022DA010,2022,2020,10,Dawson,23.7,GPS Trace,GPS: Heliborne Trace, ,2793.264877,237320.4477
+75,Polygon Z,2022DA018,2022,2020,20,Dawson,0,Sentinel-2,Multi-Acquisition Fire Mapping System (MAFiMS),Updated 2025 from NBAC,1238.553491,46043.10015
+88,Polygon Z,2022DA028,2022,2020,28,Dawson,64.291805,30m LandSAT 8 Satellite Imagery,Digitize: Heads-up,location updated using NBAC or require an ignition point,3558.622243,642918.0467
+90,Polygon Z,2022DA011,2022,2020,11,Dawson,11.779923,GPS Trace,GPS: Heliborne Trace,location updated using NBAC or require an ignition point,2840.066736,117799.2337
+116,Polygon Z,2022DA005,2022,2020,5,Dawson,16.2,30m LandSAT 8 Satellite Imagery,Digitize: Heads-up, ,1497.955976,162235.713
+128,Polygon Z,2022DA020,2022,2020,20,Dawson,0,Sentinel-2,Multi-Acquisition Fire Mapping System (MAFiMS),Updated 2025 from NBAC,2264.351814,207796.2129
+36,Polygon Z,2023DA049,2023,2020,49,Dawson,64.1,30m LandSAT 9 Satellite Imagery,Digitize: Heads-up, ,3465.799112,640808.3163
+70,Polygon Z,2023DA048,2023,2020,48,Dawson,73.2,30m LandSAT 9 Satellite Imagery,Digitize: Heads-up, ,5069.384434,732289.3631
+76,Polygon Z,2023DA055,2023,2020,55,Dawson,0,Sentinel-2,"Multi-Acquisition Fire Mapping System (MAFiMS)",Updated 2025 from NBAC,21616.89789,3272932.123
+78,Polygon Z,2023DA009,2023,2020,9,Dawson,398.9,30m LandSAT 9 Satellite Imagery,Digitize: Heads-up, ,8573.533182,3989160.64
+131,Polygon Z,2023DA017,2023,2020,17,Dawson,1105.4,30m LandSAT 9 Satellite Imagery,Digitize: Heads-up, ,16475.1481,11053961.79
+153,Polygon Z,2023DA050,2023,2020,50,Dawson,389.397754,Sentinel-2,"Multi-Acquisition Fire Mapping System (MAFiMS)",location updated using NBAC or require an ignition point,26909.97531,3893977.488
+199,Polygon Z,2023DA037,2023,2020,37,Dawson,34.6,30m LandSAT 9 Satellite Imagery,Digitize: Heads-up, ,2216.198414,345559.6382
+11,Polygon Z,2024DA013,2024,2020,13,Dawson,16.925692,GPS Trace,Digitize: Heads-up,location updated using NBAC or require an ignition point,3183.178513,169256.9231
+35,Polygon Z,2024DA034,2024,2020,34,Dawson,68.6,Sentinel-2 Satellite Imagery,Multi-Acquisition Fire Mapping System (MAFiMS), ,7776.041578,685979.8073
+49,Polygon Z,2024DA024,2024,2020,24,Dawson,26.5,Landsat-9 OLI-2 Satellite Imagery,Multi-Acquisition Fire Mapping System (MAFiMS), ,2356.744636,264650.2973
+65,Polygon Z,2024DA004,2024,2020,4,Dawson,7.270746,Sentinel-2 Satellite Imagery,Multi-Acquisition Fire Mapping System (MAFiMS),location updated using NBAC or require an ignition point,1123.7653,72707.46219
+86,Polygon Z,2024DA007,2024,2020,7,Dawson,2364.1,Sentinel-2 Satellite Imagery,Multi-Acquisition Fire Mapping System (MAFiMS), ,82878.2642,17260321.02
+95,Polygon Z,2024DA023,2024,2020,23,Dawson,14.537046,GPS Trace,GPS: Ground Trace,location updated using NBAC or require an ignition point,3549.993648,145370.4598
+113,Polygon Z,2024DA015,2024,2020,15,Dawson,2249.7,Sentinel-2 Satellite Imagery,Multi-Acquisition Fire Mapping System (MAFiMS), ,102979.9806,22497492.16
+119,Polygon Z,2024DA036,2024,2020,36,Dawson,8.1,Sentinel-2 Satellite Imagery,Multi-Acquisition Fire Mapping System (MAFiMS), ,1114.05694,81390.87163
+176,Polygon Z,2024DA011,2024,2020,11,Dawson,768.2,Sentinel-2 Satellite Imagery,Multi-Acquisition Fire Mapping System (MAFiMS), ,35199.18826,7681637.922
+180,Polygon Z,2024DA027,2024,2020,27,Dawson,180.4,Sentinel-2 Satellite Imagery,Multi-Acquisition Fire Mapping System (MAFiMS), ,14274.86043,1803582.707
+189,Polygon Z,2024DA021,2024,2020,21,Dawson,103.349103,Landsat-9 OLI-2 Satellite Imagery,Multi-Acquisition Fire Mapping System (MAFiMS),location updated using NBAC or require an ignition point,3684.886967,255663.2699
+5,Polygon Z,2025DA018,2025,2020,18,Dawson,1513.3,Landsat-9 OLI-2 Satellite Imagery,Multi-Acquisition Fire Mapping System (MAFiMS),<Null>,71972.43157,15133333.26
+23,Polygon Z,2025DA001,2025,2020,1,Dawson,78.9,Sentinel-2 Satellite Imagery,Multi-Acquisition Fire Mapping System (MAFiMS),<Null>,4740.635076,789282.1179
+98,Polygon Z,2025DA008,2025,2020,8,Dawson,2.7,Landsat-9 OLI-2 Satellite Imagery,Multi-Acquisition Fire Mapping System (MAFiMS),<Null>,677.72829,27238.34999
+99,Polygon Z,2025DA016,2025,2020,16,Dawson,6254.9,Sentinel-2 Satellite Imagery,Multi-Acquisition Fire Mapping System (MAFiMS),<Null>,171397.193,62549035.27
+115,Polygon Z,2025DA025,2025,2020,25,Dawson,915.3,Landsat-9 OLI-2 Satellite Imagery,Multi-Acquisition Fire Mapping System (MAFiMS),<Null>,38858.32831,9152836.705
+130,Polygon Z,2025DA027,2025,2020,27,Dawson,5625.3,Sentinel-2 Satellite Imagery,Multi-Acquisition Fire Mapping System (MAFiMS),<Null>,103058.0414,37932503.72
+136,Polygon Z,2025DA013,2025,2020,13,Dawson,12825.2,Sentinel-2 Satellite Imagery,Multi-Acquisition Fire Mapping System (MAFiMS),<Null>,235744.4743,78322299.13
+163,Polygon Z,2025DA020,2025,2020,20,Dawson,4.2,Sentinel-2 Satellite Imagery,Multi-Acquisition Fire Mapping System (MAFiMS),<Null>,811.070063,41715.37294
+170,Polygon Z,2025DA004,2025,2020,4,Dawson,6.7,Sentinel-2 Satellite Imagery,Multi-Acquisition Fire Mapping System (MAFiMS),<Null>,1259.210274,66792.59099
+188,Polygon Z,2025DA012,2025,2020,12,Dawson,3130.1,Landsat-9 OLI-2 Satellite Imagery,Multi-Acquisition Fire Mapping System (MAFiMS),<Null>,92525.19191,31300751.59
+198,Polygon Z,2025DA007,2025,2020,7,Dawson,11126.9,Sentinel-2 Satellite Imagery,Multi-Acquisition Fire Mapping System (MAFiMS),<Null>,257477.6812,111269032.6
+201,Polygon Z,2025DA017,2025,2020,17,Dawson,3307.8,Sentinel-2 Satellite Imagery,Multi-Acquisition Fire Mapping System (MAFiMS),<Null>,130348.9039,28621713.07
+21,Polygon Z,998008004,9980,1980,4,Dawson,33.2201,30m LandSAT 7 Satellite Imagery,Digitize: Heads-up,Undocumented fire.,2429.473315,332201.0486
+62,Polygon Z,998008002,9980,1980,2,Dawson,133.98704,30m LandSAT 7 Satellite Imagery,Digitize: Heads-up,Undocumented fire.,8211.281695,1339870.384
+83,Polygon Z,998008003,9980,1980,3,Dawson,44.28609,30m LandSAT 7 Satellite Imagery,Digitize: Heads-up,Undocumented fire.,3080.901483,442860.931
+155,Polygon Z,998008005,9980,1980,5,Dawson,201.04785,30m LandSAT 7 Satellite Imagery,Digitize: Heads-up,Undocumented fire.,11464.44854,2010478.456
+30,Polygon Z,999008010,9990,1990,10,Dawson,137.38094,30m LandSAT 7 Satellite Imagery,Digitize: Heads-up,Undocumented fire.,7199.411379,1373809.438
+46,Polygon Z,999008006,9990,1990,6,Dawson,194.35587,30m LandSAT 7 Satellite Imagery,Digitize: Heads-up,Undocumented fire.,13141.79348,1943558.73
+156,Polygon Z,999008005,9990,1990,5,Dawson,28.77643,30m LandSAT 7 Satellite Imagery,Digitize: Heads-up,Undocumented fire.,2357.055952,287764.2982
