@@ -8,6 +8,7 @@ import pandas as pd
 from netCDF4 import Dataset, num2date #pylint: disable=no-name-in-module
 import numpy as np
 import matplotlib.pyplot as plt
+import xarray as xr
 
 from datetime import datetime, timedelta
 import os
@@ -36,7 +37,7 @@ def format_wildfire_data(path_in, path_out):
     df.to_csv(path_out)
 
 def format_gst_logger(path_in, path_out):
-    """ Function formats GST logger data into a csv
+    """ Function formats GST logger data into a netCDF pickle
     
     Parameters
     ----------
@@ -83,9 +84,39 @@ def format_gst_logger(path_in, path_out):
     with open(os.path.join(path_out, 'dic_gst_obs.pkl'), 'wb') as file: 
         # A new file will be created 
         pickle.dump(dic_gst_obs, file)
+
+def format_forcing_ygs(path_in, path_out):
+    """ Function formats forcing data into a netCDF pickle
+    
+    Parameters
+    ----------
+    path_in : str
+        Path to the folder where the raw forcing data is found
+    path_out : str
+        Path to the processed output pickle
+    """
+    list_reanalysis = []
+    for f in os.listdir(path_in):
+        if '_ygs_sites_crop.nc' in f:
+            list_reanalysis.append(f.split('_ygs')[0]) 
+
+    dic_forcings = {ra: os.path.join(path_in, f'{ra}_ygs_sites_crop.nc') for ra in list_reanalysis}
+    list_stations = [i.decode("utf-8").split('YGS_')[-1] for i in xr.open_dataset(dic_forcings[list_reanalysis[0]], engine="netcdf4")['station_name'].values]
+
+    df_airT_dic = {ra: xr.open_dataset(dic_forcings[ra], engine="netcdf4")['AIRT_pl'].to_dataframe().unstack() for ra in list_reanalysis}
+    for ra in list_reanalysis:
+        df_airT_dic[ra].columns = pd.MultiIndex.from_product([[ra], list_stations], names=['reanalysis', 'station'])
+    
+    df_airT_all = pd.concat([df_airT_dic[ra] for ra in list_reanalysis], axis=1)
+    df_airT = df_airT_all.swaplevel(axis=1)[pd.MultiIndex.from_product([list_stations, list_reanalysis], names=['station', 'reanalysis'])]
+
+    # Open a file and use dump() 
+    with open(os.path.join(path_out, 'df_airT.pkl'), 'wb') as file: 
+        # A new file will be created 
+        pickle.dump(df_airT, file)
         
 
-def format_all_raw_data(path_wildfire_in, path_wildfire_out, path_gst_logger_in, path_gst_logger_out):
+def format_all_raw_data(path_wildfire_in, path_wildfire_out, path_gst_logger_in, path_gst_logger_out, path_forcing_ygs_sites_in, path_forcing_ygs_sites_out):
     """ Function formats all raw input data
     
     Parameters
@@ -98,6 +129,10 @@ def format_all_raw_data(path_wildfire_in, path_wildfire_out, path_gst_logger_in,
         Path to the folder where all the raw GST logger data are found
     path_gst_logger_out : str
         Path to the processed output pickle
+    path_forcing_ygs_sites_in : str
+        Path to the folder where the raw forcing data is found
+    path_forcing_ygs_sites_out : str
+        Path to the processed output pickle
 
     Returns
     -------
@@ -105,3 +140,4 @@ def format_all_raw_data(path_wildfire_in, path_wildfire_out, path_gst_logger_in,
     """
     format_wildfire_data(path_wildfire_in, path_wildfire_out)
     format_gst_logger(path_gst_logger_in, path_gst_logger_out)
+    format_forcing_ygs(path_forcing_ygs_sites_in, path_forcing_ygs_sites_out)
