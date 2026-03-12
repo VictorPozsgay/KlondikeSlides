@@ -1,0 +1,750 @@
+# Greenland Ice Sheet Holocene d18O, Temperature, and Surface Elevation
+#----------------------------------------------------------------------- 
+#                World Data Service for Paleoclimatology, Boulder 
+#                                  and 
+#                     NOAA Paleoclimatology Program 
+#             National Centers for Environmental Information (NCEI)
+#----------------------------------------------------------------------- 
+# Template Version 4.0
+# Encoding: UTF-8
+# NOTE: Please cite original publication, NOAA Landing Page URL, dataset and publication DOIs (where available), and date accessed when using downloaded data. If there is no publication information, please cite investigator, study title, NOAA Landing Page URL, and date accessed. 
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# NOAA_Landing_Page:  https://www.ncei.noaa.gov/access/paleo-search/study/11148
+#   Landing_Page_Description: NOAA Landing Page of this file's parent study, which includes all study metadata.
+#
+# Study_Level_JSON_Metadata: https://www.ncei.noaa.gov/pub/data/metadata/published/paleo/json/noaa-icecore-11148.json
+#   Study_Level_JSON_Description: JSON metadata of this data file's parent study, which includes all study metadata.
+#
+# Data_Type: Ice Cores
+#
+# Dataset_DOI: 10.25921/bvxd-nz36
+#
+# Science_Keywords:
+#--------------------
+# Resource_Links
+#   
+# Data_Download_Resource: https://www.ncei.noaa.gov/pub/data/paleo/icecore/greenland/vinther2009greenland-NGRIP-noaa.txt
+#   Data_Download_Description: NOAA Template File; Oxygen Isotope and Ice Sheet Elevation Data
+#
+#--------------------
+# Contribution_Date
+#   Date: 2011-04-29
+#--------------------
+# File_Last_Modified_Date
+#   Date: 2025-06-27
+#--------------------
+# Title
+#   Study_Name: Greenland Ice Sheet Holocene d18O, Temperature, and Surface Elevation
+#--------------------
+# Investigators
+#   Investigators: Vinther, B.M.; Buchardt, S.L.; Clausen, H.B.; Dahl-Jensen, D.; Johnsen, S.J.; Fisher, D.A.; Koerner, R.M.; Raynaud, D.; Lipenkov, V.Y.; Andersen, K.K.; Blunier, T.; Rasmussen, S.O.; Steffensen, J.P.; Svensson, A.M.
+#--------------------
+# Description_Notes_and_Keywords
+#   Description: Oxygen isotope data and uplift correction plus surface temperature reconstruction and elevation calculations for 6 Greenland ice cores over the Holocene. The dating of the 0-7.9 ka b2k part is described in Vinther et al. 2006 (doi:10.1029/2005JD006921). The dating of the 7.9-14.7 ka b2k part is described in Rasmussen et al. 2006 (doi:10.1029/2005JD006079). The dating of the A84, A87 and Renland cores is described in Vinther et al. 2008 (doi:10.1029/2007JD009143). The dating of the Camp Century core is described in the supplementary information to Vinther et al. 2009 (doi:10.1038/nature08355). The Renland uplift history is derived from: S. Funder. 1978. Holocene stratigraphy and vegetation history in the Scoresby Sund area, East Greenland. Grønl. Geol. Unders. Bull. 129. The Agassiz uplift history is derived from: A.S. Dyke and W.R. Peltier. 2000. Forms, response times and variability of relative sealevel curves, glaciated North America. Geomorphology, 32, 315-333, 2000. 
+# Site locations: 
+# A84/A87 ice cores, Canada:     80.7°N,  73.1°W, 1730m elev.  
+# Camp Century core, Greenland: 77°10'N, 61°08'W, 1890m elev.  
+# NGRIP ice core, Greenland:     75.1°N,  42.3°W, 2920m elev.  
+# GRIP ice core, Greenland:     72°35'N, 37°38'W, 3230m elev.  
+# Renland ice core, Greenland:  71.27°N, 26.73°W, 2350m elev.  
+# DYE-3 ice core, Greenland:    65°11'N, 43°49'W, 2490m elev.  
+#--------------------
+# Publication 
+#   Authors: Vinther, B.M., S.L. Buchardt, H.B. Clausen, D. Dahl-Jensen, S.J. Johnsen, D.A. Fisher, R.M. Koerner, D. Raynaud, V. Lipenkov, K.K. Andersen, T. Blunier, S.O. Rasmussen, J.P. Steffensen, and A.M. Svensson
+#   Published_Date_or_Year: 2009-09-17
+#   Published_Title: Holocene thinning of the Greenland ice sheet
+#   Journal_Name: Nature
+#   Volume: 461
+#   Edition: 
+#   Issue: 
+#   Pages: 385-388
+#   Report_Number: 
+#   DOI: 10.1038/nature08355
+#   Online_Resource: 
+#   Full_Citation:
+#   Abstract: On entering an era of global warming, the stability of the Greenland ice sheet (GIS) is an important concern, especially in the light of new evidence of rapidly changing flow and melt conditions at the GIS margins. Studying the response of the GIS to past climatic change may help to advance our understanding of GIS dynamics. The previous interpretation of evidence from stable isotopes (d18O) in water from GIS ice cores was that Holocene climate variability on the GIS differed spatially and that a consistent Holocene climate optimum - the unusually warm period from about 9,000 to 6,000 years ago found in many northern latitude palaeoclimate records - did not exist. Here we extract both the Greenland Holocene temperature history and the evolution of GIS surface elevation at four GIS locations. We achieve this by comparing d18O from GIS ice cores with d18O from ice cores from small marginal icecaps. Contrary to the earlier interpretation of d18O evidence from ice cores, our new temperature history reveals a pronounced Holocene climatic optimum in Greenland coinciding with maximum thinning near the GIS margins. Our d18O-based results are corroborated by the air content of ice cores, a proxy for surface elevation. State-of-the-art ice sheet models are generally found to be underestimating the extent and changes in GIS elevation and area; our findings may help to improve the ability of models to reproduce the GIS response to Holocene climate.
+#--------------------
+# Publication 
+#   Authors: B.M. Vinther, H.B. Clausen, S.J. Johnsen, S.O. Rasmussen, K.K. Andersen, S.L. Buchardt, D. Dahl-Jensen, I.K. Seierstad, M.-L. Siggaard-Andersen, J.P. Steffensen, A.M. Svensson, J. Olsen, and J. Heinemeier
+#   Published_Date_or_Year: 2006-07-16
+#   Published_Title: A synchronized dating of three Greenland ice cores throughout the Holocene
+#   Journal_Name: Journal of Geophysical Research: Atmospheres
+#   Volume: 111
+#   Edition: 
+#   Issue: D13
+#   Pages: 
+#   Report_Number: D13102
+#   DOI: 10.1029/2005JD006921
+#   Online_Resource: 
+#   Full_Citation:
+#   Abstract: As part of the effort to create the new Greenland Ice Core Chronology 2005 (GICC05) a synchronized stratigraphical timescale for the Holocene parts of the DYE-3, Greenland Ice Core Project (GRIP), and North Greenland Ice Core Project (NGRIP) ice cores is made by using volcanic reference horizons in electrical conductivity measurements to match the cores. The main annual layer counting is carried out on the most suited records only, exploiting that the three ice cores have been drilled at locations with different climatic conditions and differences in ice flow. However, supplemental counting on data from all cores has been performed between each set of reference horizons in order to verify the validity of the match. After the verification, the main dating is transferred to all records using the volcanic reference horizons as tie points. An assessment of the mean annual layer thickness in each core section confirms that the new synchronized dating is consistent for all three cores. The data used for the main annual layer counting of the past 7900 years are the DYE-3, GRIP, and NGRIP stable isotope records. As the high accumulation rate at the DYE-3 drill site makes the seasonal cycle in the DYE-3 stable isotopes very resistant to firn diffusion, an effort has been made to extend the DYE-3 Holocene record. The new synchronized dating relies heavily on this record of ~75,000 stable isotope samples. The dating of the early Holocene consists of an already established part of GICC05 for GRIP and NGRIP which has now been transferred to the DYE-3 core. GICC05 dates the Younger Dryas termination, as defined from deuterium excess, to 11,703 years before A. D. 2000 (b2k), 130 years earlier than the previous GRIP dating.
+#--------------------
+# Publication 
+#   Authors: S.O. Rasmussen, K.K. Andersen, A.M. Svensson, J.P. Steffensen, B.M. Vinther, H.B. Clausen, M.-L. Siggaard-Andersen, S.J. Johnsen, L.B. Larsen, D. Dahl-Jensen, M. Bigler, R. Röthlisberger, H. Fischer, K. Goto-Azuma, M.E. Hansson, and U. Ruth
+#   Published_Date_or_Year: 2006-03-27
+#   Published_Title: A new Greenland ice core chronology for the last glacial termination
+#   Journal_Name: Journal of Geophysical Research: Atmospheres
+#   Volume: 111
+#   Edition: 
+#   Issue: D6
+#   Pages: 
+#   Report_Number: D06102
+#   DOI: 10.1029/2005JD006079
+#   Online_Resource: 
+#   Full_Citation:
+#   Abstract: We present a new common stratigraphic timescale for the North Greenland Ice Core Project (NGRIP) and GRIP ice cores. The timescale covers the period 7.9–14.8 kyr before present and includes the Bølling, Allerød, Younger Dryas, and early Holocene periods. We use a combination of new and previously published data, the most prominent being new high-resolution Continuous Flow Analysis (CFA) impurity records from the NGRIP ice core. Several investigators have identified and counted annual layers using a multiparameter approach, and the maximum counting error is estimated to be up to 2% in the Holocene part and about 3% for the older parts. These counting error estimates reflect the number of annual layers that were hard to interpret, but not a possible bias in the set of rules used for annual layer identification. As the GRIP and NGRIP ice cores are not optimal for annual layer counting in the middle and late Holocene, the timescale is tied to a prominent volcanic event inside the 8.2 kyr cold event, recently dated in the DYE-3 ice core to 8236 years before A. D. 2000 (b2k) with a maximum counting error of 47 years. The new timescale dates the Younger Dryas-Preboreal transition to 11,703 b2k, which is 100–150 years older than according to the present GRIP and NGRIP timescales. The age of the transition matches the GISP2 timescale within a few years, but viewed over the entire 7.9–14.8 kyr section, there are significant differences between the new timescale and the GISP2 timescale. The transition from the glacial into the Bølling interstadial is dated to 14,692 b2k. The presented timescale is a part of a new Greenland ice core chronology common to the DYE-3, GRIP, and NGRIP ice cores, named the Greenland Ice Core Chronology 2005 (GICC05). The annual layer thicknesses are observed to be log-normally distributed with good approximation, and compared to the early Holocene, the mean accumulation rates in the Younger Dryas and Bølling periods are found to be 47 ± 2% and 88 ± 2%, respectively.
+#--------------------
+# Publication 
+#   Authors: Vinther, B.M., H.B. Clausen, D.A. Fisher, R.M. Koerner, S.J. Johnsen, K.K. Andersen, D. Dahl-Jensen, S.O. Rasmussen, J.P. Steffensen, and A.M. Svensson
+#   Published_Date_or_Year: 2008-04-28
+#   Published_Title: Synchronizing ice cores from the Renland and Agassiz ice caps  to the Greenland Ice Core Chronology
+#   Journal_Name: Journal of Geophysical Research: Atmospheres
+#   Volume: 113
+#   Edition: 
+#   Issue: D8
+#   Pages: 
+#   Report_Number: D08115
+#   DOI: 10.1029/2007JD009143
+#   Online_Resource: 
+#   Full_Citation:
+#   Abstract: Four ice cores from the Agassiz ice cap in the Canadian high arctic and one ice core from the Renland ice cap in eastern Greenland have been synchronized to the Greenland Ice Core Chronology 2005 (GICC05) which is based on annual layer counts in the DYE-3, GRIP and NGRIP ice cores. Volcanic reference horizons, seen in electrical conductivity measurements (ECM) have been used to carry out the synchronization throughout the Holocene. The Agassiz ice cores have been matched to the NGRIP ice core ECM signal, while the Renland core has been matched to the GRIP ice core ECM signal, thus tying the cores to GICC05. Furthermore, it has been possible to synchronize the Renland ice core to NGRIP-GICC05 in the glacial period back to 60,000 years b2k (years before A.D. 2000), on the basis of a matching of transitions between stadials and interstadials. This work brings the total number of ice core records that have been rigorously tied to the GICC05 timescale up to nine. Renland annual layer thicknesses are increasing with depth during the period from 7 to 8.5 ka b2k, a highly unusual observation only matched by a similar thickness increase in the glacial section of the Renland core some 60 ka ago. Annual layer thicknesses in the Agassiz ice cores point to a well-developed Raymond bump in the Agassiz ice cap.
+#--------------------
+# Funding_Agency 
+#   Funding_Agency_Name: Carlsberg Foundation
+#   Grant: 
+#--------------------
+# Funding_Agency 
+#   Funding_Agency_Name: French National Centre for Scientific Research (CNRS)
+#   Grant:
+#--------------------
+# Funding_Agency 
+#   Funding_Agency_Name: Russian Foundation for Basic Research
+#   Grant:
+#--------------------
+# Site_Information 
+#   Site_Name: NGRIP
+#   Location: Greenland
+#   Northernmost_Latitude: 75.1
+#   Southernmost_Latitude: 75.1
+#   Easternmost_Longitude: -42.33
+#   Westernmost_Longitude: -42.33
+#   Elevation_m: 2917
+#--------------------
+# Data_Collection  
+#   Collection_Name: NGRIP11k
+#   First_Year: 11650
+#   Last_Year: -10
+#   Time_Unit: cal yr BP
+#   Core_Length_m: 
+#   Parameter_Keywords: oxygen isotopes
+#   Notes: All ages are given in years b2k (years relative to A.D. 2000). Age values refer to the bottom of each interval. Thus the age value 60 b2k refer to the interval 40 - 60 b2k. Dating references Vinther et al. (2006), Rasmussen et al. (2006). Site elevation data has been corrected for upstream effects.  These are the data shown in fig. 2a. The estimated 1-sigma uncertainties on site elevation data are +/- 40 m for NGRIP (see Vinther et al., 2009 suppl. inf. for details).
+#--------------------
+# Chronology_Information
+#   Chronology: 
+#
+#--------------------
+# Variables  
+#
+# PaST_Thesaurus_Download_Resource:  https://www.ncei.noaa.gov/access/paleo-search/skos/past-thesaurus.rdf
+#   PaST_Thesaurus_Download_Description: Paleoenvironmental Standard Terms (PaST) Thesaurus terms, definitions, and relationships in SKOS format.
+#
+# Variables format: Short_name <tab> what,material,error,units,seasonality,data_type,detail,method,data_format,additional_information
+#
+## age_calBP2k	ice age at sample start,,,calendar year before other datum,,ice cores;climate reconstructions,,,N,present defined as 2000 CE
+## age_calBP1950	ice age at sample start,,,calendar year before present,,ice cores;climate reconstructions,,,N,present defined as 1950 CE
+## d18O_smow	delta 18O,bulk ice,,per mil SMOW,,ice cores,averaged,,N,
+## ice_elev_m	ice sheet elevation,,,meter,,ice cores;climate reconstructions,anomalized,,N,
+#
+#--------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing_Values:
+age_calBP2k	age_calBP1950	d18O_smow	ice_elev_m
+40	-10	-35.82	0.0
+60	10	-35.11	0.1
+80	30	-34.65	0.3
+100	50	-34.53	0.4
+120	70	-35.29	0.6
+140	90	-35.02	0.8
+160	110	-35.02	1.0
+180	130	-35.78	1.3
+200	150	-35.16	1.5
+220	170	-35.61	1.8
+240	190	-35.12	2.1
+260	210	-35.79	2.4
+280	230	-35.82	2.7
+300	250	-35.36	3.1
+320	270	-36.05	3.5
+340	290	-35.39	3.9
+360	310	-36.14	4.3
+380	330	-35.33	4.7
+400	350	-35.35	5.2
+420	370	-35.72	5.7
+440	390	-35.03	6.2
+460	410	-35.61	6.7
+480	430	-35.82	7.2
+500	450	-34.93	7.8
+520	470	-35.07	8.3
+540	490	-35.87	8.9
+560	510	-35.13	9.5
+580	530	-34.98	10.1
+600	550	-35.05	10.8
+620	570	-35.53	11.4
+640	590	-34.86	12.0
+660	610	-35.25	12.7
+680	630	-36.43	13.3
+700	650	-35.07	14.0
+720	670	-35.20	14.7
+740	690	-35.49	15.3
+760	710	-35.67	16.0
+780	730	-35.40	16.6
+800	750	-35.15	17.3
+820	770	-35.80	18.0
+840	790	-35.34	18.6
+860	810	-35.62	19.2
+880	830	-35.37	19.9
+900	850	-35.59	20.5
+920	870	-35.14	21.1
+940	890	-35.45	21.7
+960	910	-35.61	22.2
+980	930	-35.92	22.8
+1000	950	-34.96	23.3
+1020	970	-35.24	23.8
+1040	990	-35.02	24.3
+1060	1010	-35.00	24.8
+1080	1030	-34.98	25.2
+1100	1050	-35.41	25.7
+1120	1070	-35.73	26.1
+1140	1090	-35.35	26.5
+1160	1110	-35.75	26.8
+1180	1130	-35.45	27.2
+1200	1150	-35.34	27.5
+1220	1170	-35.38	27.8
+1240	1190	-35.27	28.1
+1260	1210	-35.15	28.3
+1280	1230	-35.33	28.6
+1300	1250	-35.33	28.8
+1320	1270	-35.27	29.0
+1340	1290	-35.14	29.1
+1360	1310	-34.69	29.2
+1380	1330	-35.44	29.4
+1400	1350	-35.26	29.4
+1420	1370	-35.14	29.5
+1440	1390	-35.28	29.5
+1460	1410	-34.43	29.5
+1480	1430	-35.78	29.5
+1500	1450	-35.33	29.5
+1520	1470	-35.83	29.4
+1540	1490	-35.39	29.3
+1560	1510	-35.35	29.2
+1580	1530	-35.74	29.0
+1600	1550	-34.46	28.8
+1620	1570	-34.64	28.6
+1640	1590	-35.27	28.4
+1660	1610	-35.86	28.2
+1680	1630	-35.49	27.9
+1700	1650	-35.27	27.6
+1720	1670	-35.80	27.3
+1740	1690	-34.93	27.0
+1760	1710	-35.55	26.6
+1780	1730	-35.90	26.3
+1800	1750	-35.44	25.9
+1820	1770	-35.47	25.5
+1840	1790	-35.37	25.2
+1860	1810	-35.04	24.8
+1880	1830	-35.39	24.4
+1900	1850	-34.49	24.1
+1920	1870	-35.07	23.7
+1940	1890	-34.43	23.4
+1960	1910	-34.71	23.1
+1980	1930	-35.10	22.8
+2000	1950	-35.32	22.5
+2020	1970	-35.11	22.2
+2040	1990	-34.79	22.0
+2060	2010	-35.35	21.8
+2080	2030	-34.95	21.6
+2100	2050	-34.89	21.4
+2120	2070	-35.07	21.3
+2140	2090	-35.46	21.2
+2160	2110	-35.18	21.2
+2180	2130	-36.07	21.1
+2200	2150	-35.76	21.2
+2220	2170	-35.20	21.2
+2240	2190	-35.26	21.3
+2260	2210	-34.84	21.4
+2280	2230	-34.57	21.5
+2300	2250	-34.81	21.7
+2320	2270	-35.11	21.9
+2340	2290	-34.94	22.1
+2360	2310	-35.09	22.4
+2380	2330	-35.26	22.6
+2400	2350	-35.08	22.9
+2420	2370	-34.68	23.2
+2440	2390	-34.86	23.6
+2460	2410	-35.32	23.9
+2480	2430	-35.88	24.3
+2500	2450	-35.48	24.6
+2520	2470	-35.71	25.0
+2540	2490	-34.83	25.4
+2560	2510	-35.24	25.8
+2580	2530	-34.84	26.2
+2600	2550	-35.43	26.6
+2620	2570	-35.06	27.0
+2640	2590	-35.41	27.4
+2660	2610	-35.14	27.8
+2680	2630	-35.14	28.2
+2700	2650	-35.43	28.6
+2720	2670	-35.32	29.1
+2740	2690	-35.12	29.5
+2760	2710	-35.10	29.9
+2780	2730	-34.83	30.3
+2800	2750	-34.91	30.6
+2820	2770	-34.99	31.0
+2840	2790	-34.92	31.4
+2860	2810	-34.63	31.8
+2880	2830	-35.49	32.1
+2900	2850	-35.20	32.5
+2920	2870	-34.98	32.8
+2940	2890	-34.81	33.2
+2960	2910	-34.38	33.5
+2980	2930	-34.81	33.8
+3000	2950	-34.85	34.1
+3020	2970	-34.79	34.4
+3040	2990	-35.45	34.7
+3060	3010	-35.14	35.0
+3080	3030	-34.94	35.2
+3100	3050	-35.14	35.5
+3120	3070	-34.97	35.7
+3140	3090	-34.87	35.9
+3160	3110	-35.04	36.1
+3180	3130	-35.26	36.3
+3200	3150	-34.54	36.5
+3220	3170	-35.25	36.7
+3240	3190	-35.28	36.8
+3260	3210	-34.76	37.0
+3280	3230	-35.54	37.2
+3300	3250	-35.25	37.3
+3320	3270	-35.24	37.4
+3340	3290	-34.89	37.6
+3360	3310	-34.29	37.7
+3380	3330	-34.98	37.8
+3400	3350	-35.42	37.9
+3420	3370	-34.66	38.1
+3440	3390	-34.80	38.2
+3460	3410	-34.67	38.3
+3480	3430	-35.19	38.5
+3500	3450	-35.28	38.6
+3520	3470	-34.75	38.8
+3540	3490	-35.10	38.9
+3560	3510	-35.42	39.1
+3580	3530	-34.77	39.3
+3600	3550	-34.63	39.5
+3620	3570	-35.09	39.7
+3640	3590	-35.18	39.9
+3660	3610	-34.93	40.1
+3680	3630	-34.28	40.4
+3700	3650	-34.71	40.6
+3720	3670	-34.68	40.9
+3740	3690	-34.41	41.1
+3760	3710	-34.65	41.4
+3780	3730	-35.36	41.7
+3800	3750	-35.27	41.9
+3820	3770	-34.78	42.2
+3840	3790	-35.01	42.5
+3860	3810	-35.17	42.7
+3880	3830	-35.36	43.0
+3900	3850	-34.90	43.2
+3920	3870	-35.34	43.5
+3940	3890	-35.16	43.7
+3960	3910	-34.85	43.9
+3980	3930	-35.12	44.1
+4000	3950	-34.96	44.3
+4020	3970	-35.14	44.5
+4040	3990	-34.41	44.6
+4060	4010	-35.20	44.7
+4080	4030	-34.74	44.8
+4100	4050	-35.53	44.9
+4120	4070	-35.14	45.0
+4140	4090	-34.87	45.0
+4160	4110	-35.20	45.0
+4180	4130	-34.72	45.0
+4200	4150	-34.76	45.0
+4220	4170	-34.50	45.0
+4240	4190	-34.78	44.9
+4260	4210	-35.01	44.8
+4280	4230	-35.26	44.8
+4300	4250	-34.92	44.7
+4320	4270	-34.63	44.6
+4340	4290	-34.79	44.5
+4360	4310	-34.75	44.4
+4380	4330	-35.00	44.3
+4400	4350	-35.47	44.2
+4420	4370	-35.20	44.1
+4440	4390	-34.76	44.0
+4460	4410	-34.06	43.9
+4480	4430	-34.80	43.9
+4500	4450	-35.15	43.8
+4520	4470	-34.83	43.8
+4540	4490	-35.27	43.8
+4560	4510	-34.83	43.8
+4580	4530	-34.21	43.8
+4600	4550	-34.57	43.8
+4620	4570	-34.51	43.9
+4640	4590	-35.05	44.0
+4660	4610	-34.69	44.1
+4680	4630	-35.21	44.2
+4700	4650	-35.02	44.4
+4720	4670	-34.71	44.6
+4740	4690	-34.79	44.8
+4760	4710	-35.09	45.0
+4780	4730	-34.54	45.3
+4800	4750	-34.82	45.6
+4820	4770	-34.66	45.9
+4840	4790	-34.93	46.2
+4860	4810	-34.42	46.5
+4880	4830	-34.89	46.9
+4900	4850	-34.79	47.3
+4920	4870	-34.65	47.7
+4940	4890	-34.55	48.1
+4960	4910	-34.57	48.5
+4980	4930	-34.08	48.9
+5000	4950	-34.92	49.3
+5020	4970	-34.79	49.8
+5040	4990	-34.53	50.2
+5060	5010	-34.80	50.6
+5080	5030	-34.63	51.1
+5100	5050	-34.84	51.5
+5120	5070	-34.64	51.9
+5140	5090	-35.11	52.3
+5160	5110	-34.73	52.7
+5180	5130	-35.05	53.1
+5200	5150	-33.85	53.5
+5220	5170	-34.63	53.8
+5240	5190	-34.90	54.2
+5260	5210	-34.74	54.5
+5280	5230	-34.56	54.8
+5300	5250	-35.27	55.1
+5320	5270	-35.03	55.3
+5340	5290	-34.77	55.6
+5360	5310	-35.39	55.8
+5380	5330	-34.96	56.0
+5400	5350	-34.78	56.2
+5420	5370	-35.10	56.3
+5440	5390	-34.35	56.4
+5460	5410	-34.81	56.6
+5480	5430	-34.91	56.6
+5500	5450	-34.47	56.7
+5520	5470	-34.53	56.8
+5540	5490	-34.70	56.8
+5560	5510	-34.36	56.9
+5580	5530	-34.22	56.9
+5600	5550	-35.06	56.9
+5620	5570	-34.78	56.9
+5640	5590	-35.19	56.9
+5660	5610	-33.88	56.9
+5680	5630	-35.20	56.9
+5700	5650	-35.18	56.8
+5720	5670	-34.51	56.8
+5740	5690	-35.25	56.8
+5760	5710	-34.69	56.8
+5780	5730	-34.71	56.8
+5800	5750	-34.55	56.8
+5820	5770	-34.50	56.8
+5840	5790	-34.71	56.8
+5860	5810	-35.02	56.8
+5880	5830	-34.71	56.9
+5900	5850	-33.95	56.9
+5920	5870	-34.20	57.0
+5940	5890	-34.61	57.1
+5960	5910	-34.91	57.2
+5980	5930	-34.73	57.3
+6000	5950	-34.85	57.4
+6020	5970	-35.03	57.6
+6040	5990	-34.77	57.7
+6060	6010	-34.78	57.9
+6080	6030	-35.49	58.1
+6100	6050	-34.27	58.3
+6120	6070	-35.17	58.5
+6140	6090	-34.71	58.7
+6160	6110	-34.39	58.9
+6180	6130	-34.42	59.2
+6200	6150	-34.89	59.4
+6220	6170	-34.89	59.7
+6240	6190	-34.58	60.0
+6260	6210	-34.60	60.3
+6280	6230	-35.13	60.6
+6300	6250	-34.38	60.9
+6320	6270	-35.20	61.2
+6340	6290	-34.55	61.5
+6360	6310	-34.60	61.8
+6380	6330	-34.86	62.1
+6400	6350	-34.99	62.5
+6420	6370	-34.23	62.8
+6440	6390	-34.62	63.1
+6460	6410	-34.07	63.4
+6480	6430	-34.97	63.7
+6500	6450	-34.32	64.1
+6520	6470	-34.50	64.4
+6540	6490	-34.53	64.7
+6560	6510	-35.01	65.0
+6580	6530	-34.97	65.3
+6600	6550	-34.98	65.6
+6620	6570	-34.45	65.9
+6640	6590	-34.37	66.2
+6660	6610	-34.61	66.5
+6680	6630	-34.57	66.8
+6700	6650	-34.74	67.0
+6720	6670	-34.37	67.3
+6740	6690	-34.49	67.5
+6760	6710	-34.52	67.8
+6780	6730	-34.58	68.0
+6800	6750	-35.12	68.2
+6820	6770	-34.69	68.4
+6840	6790	-34.32	68.6
+6860	6810	-34.36	68.8
+6880	6830	-34.72	69.0
+6900	6850	-34.56	69.1
+6920	6870	-34.97	69.1
+6940	6890	-34.32	69.0
+6960	6910	-34.26	68.9
+6980	6930	-35.11	68.8
+7000	6950	-34.73	68.6
+7020	6970	-34.47	68.4
+7040	6990	-34.82	68.3
+7060	7010	-34.90	68.1
+7080	7030	-34.77	67.8
+7100	7050	-34.40	67.6
+7120	7070	-34.95	67.4
+7140	7090	-34.97	67.2
+7160	7110	-34.36	66.9
+7180	7130	-35.28	66.7
+7200	7150	-34.74	66.4
+7220	7170	-34.68	66.2
+7240	7190	-34.93	66.0
+7260	7210	-34.87	65.7
+7280	7230	-34.12	65.5
+7300	7250	-34.84	65.3
+7320	7270	-34.99	65.2
+7340	7290	-34.73	65.0
+7360	7310	-34.64	64.9
+7380	7330	-34.74	64.8
+7400	7350	-34.31	64.8
+7420	7370	-34.55	64.8
+7440	7390	-34.62	64.8
+7460	7410	-34.50	64.9
+7480	7430	-34.44	65.0
+7500	7450	-33.88	65.3
+7520	7470	-34.77	65.5
+7540	7490	-34.78	65.8
+7560	7510	-35.04	66.2
+7580	7530	-34.34	66.7
+7600	7550	-34.52	67.2
+7620	7570	-34.08	67.8
+7640	7590	-34.01	68.4
+7660	7610	-34.88	69.1
+7680	7630	-33.90	69.9
+7700	7650	-34.01	70.8
+7720	7670	-34.65	71.7
+7740	7690	-34.26	72.6
+7760	7710	-34.09	73.7
+7780	7730	-34.75	74.8
+7800	7750	-34.35	75.9
+7820	7770	-34.13	77.1
+7840	7790	-33.76	78.3
+7860	7810	-34.35	79.6
+7880	7830	-34.40	80.9
+7900	7850	-34.62	82.2
+7920	7870	-34.98	83.6
+7940	7890	-34.51	85.0
+7960	7910	-34.78	86.4
+7980	7930	-34.83	87.8
+8000	7950	-33.60	89.2
+8020	7970	-34.04	90.6
+8040	7990	-34.40	92.0
+8060	8010	-34.43	93.4
+8080	8030	-35.05	94.8
+8100	8050	-34.51	96.1
+8120	8070	-34.50	97.4
+8140	8090	-33.96	98.7
+8160	8110	-35.44	100.0
+8180	8130	-35.68	101.2
+8200	8150	-35.54	102.4
+8220	8170	-36.06	103.5
+8240	8190	-35.88	104.6
+8260	8210	-36.03	105.7
+8280	8230	-35.21	106.7
+8300	8250	-35.68	107.6
+8320	8270	-34.50	108.6
+8340	8290	-34.70	109.4
+8360	8310	-34.87	110.2
+8380	8330	-34.95	111.0
+8400	8350	-34.41	111.7
+8420	8370	-35.36	112.4
+8440	8390	-34.79	113.0
+8460	8410	-34.46	113.6
+8480	8430	-35.07	114.2
+8500	8450	-34.70	114.7
+8520	8470	-34.43	115.2
+8540	8490	-34.83	115.7
+8560	8510	-34.99	116.1
+8580	8530	-34.59	116.5
+8600	8550	-34.35	116.9
+8620	8570	-34.83	117.3
+8640	8590	-34.18	117.7
+8660	8610	-35.02	118.1
+8680	8630	-35.46	118.5
+8700	8650	-35.21	118.9
+8720	8670	-34.01	119.3
+8740	8690	-34.92	119.7
+8760	8710	-34.49	120.1
+8780	8730	-35.34	120.5
+8800	8750	-34.22	121.0
+8820	8770	-35.57	121.4
+8840	8790	-35.22	121.9
+8860	8810	-34.08	122.4
+8880	8830	-35.15	122.9
+8900	8850	-34.57	123.4
+8920	8870	-34.17	123.9
+8940	8890	-34.30	124.4
+8960	8910	-34.71	125.0
+8980	8930	-34.57	125.6
+9000	8950	-34.47	126.2
+9020	8970	-34.68	126.8
+9040	8990	-35.57	127.4
+9060	9010	-35.18	128.0
+9080	9030	-34.92	128.6
+9100	9050	-34.73	129.2
+9120	9070	-34.61	129.9
+9140	9090	-34.98	130.5
+9160	9110	-34.47	131.1
+9180	9130	-34.34	131.7
+9200	9150	-34.70	132.4
+9220	9170	-34.83	133.0
+9240	9190	-34.92	133.6
+9260	9210	-35.62	134.2
+9280	9230	-35.66	134.7
+9300	9250	-36.05	135.3
+9320	9270	-35.19	135.9
+9340	9290	-35.04	136.4
+9360	9310	-34.91	137.0
+9380	9330	-34.56	137.5
+9400	9350	-34.87	138.1
+9420	9370	-34.80	138.6
+9440	9390	-34.83	139.1
+9460	9410	-35.12	139.6
+9480	9430	-35.12	140.1
+9500	9450	-34.92	140.7
+9520	9470	-34.66	141.2
+9540	9490	-35.01	141.7
+9560	9510	-34.56	142.3
+9580	9530	-34.98	142.8
+9600	9550	-35.13	143.4
+9620	9570	-34.95	144.0
+9640	9590	-34.77	144.6
+9660	9610	-34.96	145.3
+9680	9630	-34.85	146.0
+9700	9650	-34.84	146.6
+9720	9670	-34.62	147.4
+9740	9690	-34.68	148.1
+9760	9710	-34.87	148.9
+9780	9730	-34.66	149.8
+9800	9750	-34.49	150.6
+9820	9770	-35.12	151.5
+9840	9790	-35.37	152.5
+9860	9810	-35.22	153.5
+9880	9830	-34.54	154.5
+9900	9850	-35.06	155.5
+9920	9870	-35.26	156.6
+9940	9890	-34.85	157.7
+9960	9910	-35.46	158.9
+9980	9930	-34.65	160.0
+10000	9950	-35.10	161.2
+10020	9970	-34.94	162.4
+10040	9990	-35.11	163.6
+10060	10010	-35.79	164.9
+10080	10030	-35.21	166.1
+10100	10050	-35.32	167.3
+10120	10070	-35.29	168.6
+10140	10090	-35.45	169.8
+10160	10110	-34.99	171.1
+10180	10130	-35.02	172.3
+10200	10150	-34.89	173.5
+10220	10170	-35.93	174.7
+10240	10190	-35.54	175.9
+10260	10210	-36.33	177.0
+10280	10230	-36.39	178.1
+10300	10250	-36.01	179.2
+10320	10270	-36.01	180.3
+10340	10290	-35.20	181.3
+10360	10310	-36.12	182.2
+10380	10330	-36.18	183.2
+10400	10350	-36.36	184.0
+10420	10370	-35.96	184.9
+10440	10390	-36.12	185.6
+10460	10410	-36.04	186.3
+10480	10430	-35.53	187.0
+10500	10450	-36.34	187.6
+10520	10470	-35.46	188.2
+10540	10490	-35.73	188.6
+10560	10510	-35.86	189.1
+10580	10530	-35.99	189.4
+10600	10550	-35.89	189.7
+10620	10570	-36.12	189.9
+10640	10590	-36.13	190.1
+10660	10610	-36.16	190.2
+10680	10630	-35.50	190.2
+10700	10650	-35.77	190.2
+10720	10670	-36.05	190.1
+10740	10690	-36.45	189.9
+10760	10710	-35.88	189.6
+10780	10730	-36.22	189.3
+10800	10750	-36.83	188.9
+10820	10770	-35.84	188.4
+10840	10790	-36.59	187.8
+10860	10810	-36.09	187.2
+10880	10830	-37.23	186.5
+10900	10850	-37.60	185.7
+10920	10870	-37.25	184.8
+10940	10890	-37.15	183.8
+10960	10910	-37.00	182.8
+10980	10930	-38.01	181.7
+11000	10950	-36.53	180.5
+11020	10970	-37.05	179.3
+11040	10990	-36.44	177.9
+11060	11010	-36.64	176.5
+11080	11030	-36.89	175.1
+11100	11050	-37.11	173.5
+11120	11070	-36.71	171.9
+11140	11090	-36.43	170.3
+11160	11110	-37.13	168.5
+11180	11130	-36.62	166.7
+11200	11150	-37.25	164.9
+11220	11170	-37.39	163.0
+11240	11190	-37.60	161.0
+11260	11210	-36.57	159.1
+11280	11230	-36.16	157.0
+11300	11250	-36.58	154.9
+11320	11270	-37.54	152.8
+11340	11290	-36.67	150.6
+11360	11310	-36.91	148.5
+11380	11330	-37.45	146.2
+11400	11350	-37.63	144.0
+11420	11370	-37.11	141.7
+11440	11390	-38.46	139.4
+11460	11410	-38.26	137.1
+11480	11430	-38.72	134.8
+11500	11450	-37.41	132.4
+11520	11470	-37.84	130.1
+11540	11490	-36.90	127.7
+11560	11510	-36.60	125.3
+11580	11530	-36.87	122.9
+11600	11550	-36.78	120.5
+11620	11570	-36.41	118.1
+11640	11590	-36.57	115.7
+11660	11610	-36.68	113.3
+11680	11630	-38.49	110.9
+11700	11650	-39.04	108.4
